@@ -1,0 +1,15 @@
+main\java\data\CsvWeaponsRepository.class
+main\java\util\JAXBPostgresConfig.class
+main\java\model\Player.class
+main\java\model\Targetable.class
+main\java\model\Weapon.class
+main\java\model\weapons\BronzeSword.class
+main\java\data\PlayerRepository.class
+main\java\model\weapons\IronGreataxe.class
+main\java\model\Goblin.class
+main\java\Application.class
+main\java\data\PostgreSQLWeaponsRepository.class
+main\java\Starter.class
+main\java\util\exceptions\WeaponException.class
+main\java\data\PostgreSQLConnection.class
+main\java\model\Dungeon.class
